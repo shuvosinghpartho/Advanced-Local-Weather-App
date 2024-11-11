@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#currentWeather,
+.forecast-card {
+    transition: opacity 0.5s ease;
+}
